@@ -1,5 +1,6 @@
 # Frequent-Words-in-Tweets
-CMP2003 Data Structures and Algorithms (C++) Term Project
+2018 – 2019 CMP2003 Data Structures and Algorithms (C++) Term Project
+
 You are expected to write a c++ console application which reads a text file that consists of  tweets and then print the top 10 most frequent words in the tweets. In order to get the tweet data file, first download the following zip file:
 
  http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
@@ -8,7 +9,7 @@ You are expected to write a c++ console application which reads a text file that
  
  You can find a list of stopwords here:
  
- https://www.link-assistant.com/seo-stop-words.htmlYou should not count these words.
+ https://www.link-assistant.com/seo-stop-words.html You should not count these words.
  
  Definition of a word:
  
