@@ -19,3 +19,5 @@ You are expected to write a c++ console application which reads a text file that
  A. Implementation of data structure.This will be a proper C++ class. You must be able to create many instances of this class. (You should not use third party libraries including C++ STL, Boost etc. ). However you can use, iostream, ctime, fstream, string like IO and string related classes.
  
  B. The main program itself. Your program must calculate the elapsed time starting from reading tweet file to the end of the printing top 10 words. There is no need to ask user input.
+ 
+# This project has made by Feyza Aydogan and Beyza Aydogan
